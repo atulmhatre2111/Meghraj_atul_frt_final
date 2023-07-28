@@ -1,7 +1,7 @@
 # frtproject
   
 # collobrator megh212 github link :- https://github.com/megh212
-## website links :- https://atulmhatre2111.github.io/frtproject/contact.html 
+## website links :- https://atulmhatre2111.github.io/Meghraj_atul_frt_final/
 
 # firstly we use static web app azure
 ![Screenshot (4)](https://user-images.githubusercontent.com/108206935/204542101-b22accd0-db87-44d2-a597-2f0df26de942.png)
