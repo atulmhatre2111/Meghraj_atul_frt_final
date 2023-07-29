@@ -10,8 +10,8 @@
 ![2023-07-28 21_49_29-Azure Chatbot](https://github.com/atulmhatre2111/Meghraj_atul_frt_final/assets/108206935/245ff949-0899-4893-b859-5284292eb393)
 
 # we have also  Azure cdncontainers services to load webpages faster 
-![Screenshot (2)](https://user-images.githubusercontent.com/88397453/204541245-18a45a87-c664-4442-ba7e-41be915da52b.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/88397453/204541276-4085d591-ff04-4e63-a0ea-751a805fe620.png)
+![WhatsApp Image 2023-07-29 at 11 25 55](https://github.com/atulmhatre2111/Meghraj_atul_frt_final/assets/108206935/c83b907f-6bc5-474e-a4d6-6866e518b8cd)
+
 
 # This is the final outcome of our project 
 ![Screenshot 2022-10-22 140046](https://user-images.githubusercontent.com/108206935/197329801-5c7e8c1a-0ea5-48de-a740-d750e8c293f9.png)
