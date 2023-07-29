@@ -3,13 +3,13 @@
 # collobrator megh212 github link :- https://github.com/megh212
 ## website links :- https://atulmhatre2111.github.io/Meghraj_atul_frt_final/
 
-# firstly we use static web app azure
+# firstly we use Azure storage account with that we have used static web app service 
 ![Screenshot (4)](https://user-images.githubusercontent.com/108206935/204542101-b22accd0-db87-44d2-a597-2f0df26de942.png)
 
 # second we have used Azure Chat bot service in our weg page 
 ![2023-07-28 21_49_29-Azure Chatbot](https://github.com/atulmhatre2111/Meghraj_atul_frt_final/assets/108206935/245ff949-0899-4893-b859-5284292eb393)
 
-# we have also  used virtual machine in our project 
+# we have also  Azure cdncontainers services to load webpages faster 
 ![Screenshot (2)](https://user-images.githubusercontent.com/88397453/204541245-18a45a87-c664-4442-ba7e-41be915da52b.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/88397453/204541276-4085d591-ff04-4e63-a0ea-751a805fe620.png)
 
